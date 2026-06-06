@@ -1,7 +1,6 @@
-=============================
+
 LINUX COMMANDS REFERENCE
 =============================
-
 1. INFORMATIONAL COMMANDS
 -------------------------
 pwd                 Print current working directory
